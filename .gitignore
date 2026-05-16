@@ -1,0 +1,33 @@
+# ============================================================
+# Python virtual environments — NEVER commit these
+# ============================================================
+.venv/
+venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+*.egg-info/
+
+# ============================================================
+# Jupyter
+# ============================================================
+.ipynb_checkpoints/
+
+# ============================================================
+# OS-generated noise
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+sections_4.1_4.2_4.3_5.1_5.2_5.3.ipynb
+ADS_data_post_clean/
+ADS_data_pre_clean/
+*.zip
+*.docx
+ADS_Payments_EDA.ipynb
+ADS_Banking_Notebook.ipynb
+payments_eda.ipynb
+report_images/

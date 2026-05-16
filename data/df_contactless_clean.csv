@@ -1,0 +1,8 @@
+year,single_transaction_limit_gbp,transaction_limit_status,source_org,contactless_transaction_source_note
+2007,10,introduced,UK Finance,"Contactless payments were introduced in 2007, initially with a limit of £10."
+2010,15,raised,UK Finance,Limit increased to £15 in 2010.
+2012,20,raised,UK Finance,Limit increased to £20 in 2012.
+2015,30,raised,UK Finance,Limit increased to £30 in 2015.
+2020,45,raised,UK Finance,National roll-out began from 1 April 2020.
+2021,100,raised,FCA / UK Finance,Single transaction threshold increased from £45 to £100; rollout began 15 October 2021.
+2026,variable_by_firm,regulatory_cap_removed,FCA,From 19 March 2026 firms with strong fraud controls may set their own card contactless limits.
